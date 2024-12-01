@@ -64,8 +64,8 @@ def readfromDatabase():
     if not carstoPaste:
         return jsonify({"message": "No new cars found in database"}), 404
     else:
-        inregistrare = Inregistrare(host="localhost", user="root", password="root", database="cars")
-        staying_times = inregistrare.record(dates)
+        rec = Record(host="localhost", user="root", password="root", database="cars")
+        staying_times = rec.record(dates)
 
         return jsonify({
             "message": "New cars also found in db",
