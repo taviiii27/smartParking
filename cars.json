@@ -1,0 +1,92 @@
+[
+    {
+        "idcar": 11,
+        "Registernumber": "TOY2020",
+        "brand": "Toyota",
+        "color": "Blue",
+        "owner": "John Doe",
+        "dates": "2024-11-27 10:00:00",
+        "direction": "entry"
+    },
+    {
+        "idcar": 12,
+        "Registernumber": "HON2021",
+        "brand": "Honda",
+        "color": "Red",
+        "owner": "Jane Smith",
+        "dates": "2024-11-28 17:45:00",
+        "direction": "entry"
+    },
+    {
+        "idcar": 13,
+        "Registernumber": "FOR2019",
+        "brand": "Ford",
+        "color": "Dark Green",
+        "owner": "Alice Johnson",
+        "dates": "2024-11-26 09:00:00",
+        "direction": "entry"
+    },
+    {
+        "idcar": 14,
+        "Registernumber": "CHE2022",
+        "brand": "Chevrolet",
+        "color": "Black",
+        "owner": "Tom Harris",
+        "dates": "2024-11-26 15:00:00",
+        "direction": "entry"
+    },
+    {
+        "idcar": 15,
+        "Registernumber": "NIS2018",
+        "brand": "Nissan",
+        "color": "Silver",
+        "owner": "Chris Davis",
+        "dates": "2024-11-24 08:15:00",
+        "direction": "exit"
+    },
+    {
+        "idcar": 16,
+        "Registernumber": "BMW2023",
+        "brand": "BMW",
+        "color": "White",
+        "owner": "Samantha Brown",
+        "dates": "2024-11-19 20:00:00",
+        "direction": "entry"
+    },
+    {
+        "idcar": 17,
+        "Registernumber": "MER2021",
+        "brand": "Mercedes-Benz",
+        "color": "Grey",
+        "owner": "Edward Harris",
+        "dates": "2024-11-14 11:50:00",
+        "direction": "exit"
+    },
+    {
+        "idcar": 18,
+        "Registernumber": "ABC2020",
+        "brand": "Hyundai",
+        "color": "Yellow",
+        "owner": "Sophia Lee",
+        "dates": "2024-11-19 17:30:00",
+        "direction": "entry"
+    },
+    {
+        "idcar": 19,
+        "Registernumber": "KIA2022",
+        "brand": "Kia",
+        "color": "Orange",
+        "owner": "George Martin",
+        "dates": "2024-11-21 13:30:00",
+        "direction": "exit"
+    },
+    {
+        "idcar": 20,
+        "Registernumber": "VOL2019",
+        "brand": "Volkswagen",
+        "color": "Blue",
+        "owner": "Hannah Scott",
+        "dates": "2024-11-20 16:55:00",
+        "direction": "entry"
+    }
+]
