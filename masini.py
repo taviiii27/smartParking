@@ -42,7 +42,7 @@ class Masina(startRecord):
         except IOError as e:
             print("Fisierul nu s-a putut salva!")
 
-class Inregistrare(Database):
+class Record(Database):
     def record(self, dates):
         query = """
             SELECT idcar,
