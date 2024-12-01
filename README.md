@@ -6,7 +6,7 @@ Vehicle entries and exits are automatically recorded through video cameras that 
 Access is allowed only if the vehicle is registered in a database of authorized vehicles.
 The system will manage and track the vehicles' entry and exit times, ensuring proper billing or usage tracking based on the time spent in the parking lot.
 
-
+ALWAYS USE POSTMAN APP TO TEST THE 'PUT' REQUEST IN THE main.py FILE!
 
 
 
